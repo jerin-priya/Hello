@@ -55,6 +55,7 @@ public class FileDemo {
         if(dir.delete()){
             System.out.println(dir.getName()+" file has been deleted"); //file ta delete kore dibe
         }*/
+       ////
     }
 }
 
